@@ -12,4 +12,4 @@
 说明：
 本归档说明用于影视网站资料整理，不涉及任何引导。
 
-v
+Site notes: https://kimberlyiednu.github.io/tv-series-navigation-index/
